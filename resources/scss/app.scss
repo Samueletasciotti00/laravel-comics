@@ -85,3 +85,25 @@ li img{
     /* align-items: center; */
     padding: 50px;
 }
+
+
+
+// Footer
+.ft-box{
+    width: 100%;
+    min-height: 200px;
+    background-color: gray;
+    display: flex;
+    flex-direction: row;
+    padding: 40px;
+    padding-left: 300px;
+    gap: 50px;
+}
+
+.ft-box h4{
+    color: aliceblue;
+}
+
+.ft-box ul{
+    list-style: none;
+}
