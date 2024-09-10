@@ -1,0 +1,11 @@
+// In main.blade.php --->> <body>
+
+//     @include('partials.navbar')
+
+//     @yield('hero')
+
+//     @yield('content')
+
+//     @include('partials.footer')
+
+// </body>

@@ -11,10 +11,3 @@
 
 @endsection
 
-@section('titlePage')
-    contatti
-@endsection
-
-@section('hero')
-    <div>HERO CONTACTS</div>
-@endsection

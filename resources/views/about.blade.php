@@ -11,7 +11,3 @@
 
 @endsection
 
-
-@section('titlePage')
-    chi siamo
-@endsection
