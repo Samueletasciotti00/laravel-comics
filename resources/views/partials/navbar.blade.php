@@ -2,7 +2,7 @@
 
   <!-- Logo -->
   <div>
-    <img src=".../img/dc-logo.png" alt="LOGO">
+    <img src="/img/dc-logo.png" alt="LOGO">
   </div>
 
   <!-- Lista opzioni -->
